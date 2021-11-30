@@ -76,7 +76,9 @@
   z-index: -1;
 }
 
-.page-home .navbar {
+
+
+.navbar {
   position: absolute;
   top: auto;
   left: 0;
@@ -446,7 +448,7 @@
 .vg-contact-form {
   margin: 0 auto;
   padding: 30px 0;
-  max-width: 400px;
+  max-width: 900px;
 }
 
 /* Footer */
